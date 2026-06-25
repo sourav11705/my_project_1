@@ -1,0 +1,39 @@
+{
+  "loading.searching": "Comparing live prices across apps…",
+  "loading.results": "Fetching latest totals, fees, and ETA…",
+  "loading.filters": "Re-ranking options…",
+  "loading.clickout": "Preparing secure handoff…",
+
+  "empty.no_results_title": "No matching options found",
+  "empty.no_results_body": "Try removing a filter or broadening your search.",
+  "empty.no_results_cta_primary": "Edit search",
+  "empty.no_results_cta_secondary": "Clear all filters",
+
+  "error.fetch_title": "Couldn’t fetch latest prices",
+  "error.fetch_body": "Please try again. Some platforms may be temporarily unavailable.",
+  "error.fetch_cta": "Retry",
+  "error.location_body": "We couldn’t verify your location. Check pincode or enable location access.",
+
+  "partial.providers_unavailable": "Some platforms are temporarily unavailable. Showing available options.",
+  "partial.provider_row": "Temporarily unavailable",
+  "partial.cta": "Refresh quotes",
+
+  "stale.warning": "This quote is over 2 minutes old.",
+  "stale.cta_refresh": "Refresh before checkout",
+  "stale.clickout_note": "Price may change when you open the partner app.",
+
+  "label.updated_now": "Updated just now",
+  "label.updated_seconds": "Updated {n}s ago",
+  "label.best_deal": "Best Deal",
+  "label.sponsored": "Sponsored",
+  "label.disclaimer": "Prices may change at checkout",
+
+  "clickout.summary_title": "Confirm and continue",
+  "clickout.primary.default": "Continue to {platform}",
+  "clickout.primary.stale": "Refresh and continue",
+  "clickout.primary.fallback": "Open {platform} in browser",
+  "clickout.secondary.cancel": "Cancel",
+  "clickout.secondary.back": "Back to results",
+  "clickout.secondary.refresh": "Refresh quotes",
+  "clickout.leave_notice": "You are leaving PricePulse."
+}
